@@ -1,0 +1,79 @@
+Step 1:  Create new cells for new GPIO default vectors.
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1803.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1803.v
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1803.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1803.v already exists and does not need to be generated.
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0403.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0403.v
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0801.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0801.v
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0403.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0403.v already exists and does not need to be generated.
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0800.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0800.v
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1808.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1808.v
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0c00.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0c00.v
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0402.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0402.v
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0c00.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0c00.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0800.v already exists and does not need to be generated.
+Creating new layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag
+Creating new gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0c00.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0c00.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_0c00.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_0c00.v already exists and does not need to be generated.
+Layout file /scratch/mpw7/caravel_user_project/mag/gpio_defaults_block_1800.mag already exists and does not need to be generated.
+Gate-level verilog file /scratch/mpw7/caravel_user_project/verilog/gl/gpio_defaults_block_1800.v already exists and does not need to be generated.
+Step 2:  Modify top-level layouts to use the specified defaults.
+Done.

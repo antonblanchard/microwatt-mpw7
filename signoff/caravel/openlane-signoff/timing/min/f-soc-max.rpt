@@ -1,0 +1,15 @@
+exec> report_checks \
+    -path_delay max \
+    -through _3057a41900000000_p_Instance \
+    -format full_clock_expanded \
+    -fields {slew cap input_pins nets fanout} \
+    -no_line_splits \
+    -group_count 1000 \
+    -slack_max 10 \
+    -digits 4 \
+    -unique_paths_to_endpoint \
+    
+design: caravel
+time: Mon Dec  5 22:14:22 UTC 2022
+
+No paths found.
